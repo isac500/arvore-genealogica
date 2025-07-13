@@ -63,8 +63,8 @@ body, html {
 }
 
 .filho img {
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   border: 3px solid #810386;
   cursor: pointer;
