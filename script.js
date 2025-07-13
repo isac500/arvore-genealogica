@@ -17,7 +17,7 @@ const descendentes = {
   },
   3: {
     nome: "Elizete - Filha 3",
-    netos: ["Milton", "Eliaquin", "Elias"],
+    netos: ["Milton", "Eliaquim", "Elias"],
     bisnetos: {
       
     }
@@ -76,7 +76,7 @@ const descendentes = {
     }
   },
   10: {
-    nome: "Josemary - Filho 10",
+    nome: "Josemary - Filha 10",
     netos: ["Jean Carlos", "Davi", "Ágatha"],
     bisnetos: {
 
