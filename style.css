@@ -89,7 +89,7 @@ body, html {
 }
 
 .popup-content {
-  background: white;
+  background: rgb(18, 212, 226);
   margin: 10% auto;
   padding: 20px;
   width: 90%;
